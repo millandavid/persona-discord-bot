@@ -1,3 +1,4 @@
 .env
 pack-lock.json
 node_modules/
+env
