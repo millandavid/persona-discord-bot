@@ -1,1 +1,3 @@
-config.json
+.env
+pack-lock.kson
+node_modules/
