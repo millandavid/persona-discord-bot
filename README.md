@@ -1,2 +1,2 @@
-# persona-discord-bot
+# personal-discord-bot
 Personal Discord Bot
